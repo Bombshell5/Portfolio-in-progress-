@@ -8,10 +8,12 @@ The webapp will have a link to previous projects plus skills I have. It also has
 # Web Pages
 It is just one one webpage with three distinct options
 # Development Environment
+* VSCode 
+* React
+* Node js 
+* tailwind
+* Javacript
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
 
 # Useful Websites
 
